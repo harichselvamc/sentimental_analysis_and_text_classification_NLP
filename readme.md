@@ -24,9 +24,9 @@ The project is implemented in Python, and it requires the following dependencies
 - [NLTK](https://www.nltk.org/)
 - [scikit-learn](https://scikit-learn.org/)
 - [pandas](https://pandas.pydata.org/)
-- [matplotlib](https://matplotlib.org/)
+
 
 You can install the dependencies using the following:
 
 ```bash
-pip install nltk scikit-learn pandas matplotlib
+pip install nltk scikit-learn pandas
